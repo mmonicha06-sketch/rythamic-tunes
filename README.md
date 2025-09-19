@@ -1,1 +1,1 @@
-# rythamic-tunes
+# rhythmic-tunes
